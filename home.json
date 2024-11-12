@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name":"Apple Smart-watch",
+        "price": 7299,
+        "image":"images/apple watch.png"
+
+    },
+    {
+        "id":2,
+        "name":"Dell Laptop(8gb ram)",
+        "price": 72590,
+        "image":"images/dell lap.png"
+
+    },
+    {
+        "id":3,
+        "name":"Nike Football",
+        "price": 2560,
+        "image":"images/football.png"
+
+    },
+    {
+        "id":4,
+        "name":"Samsung Galaxy S24",
+        "price": 28979,
+        "image":"images/samsung.png"
+
+    },
+    {
+        "id":5,
+        "name":"MRF Cricket Kit",
+        "price": 18699,
+        "image":"images/mrf kit.png"
+
+    },
+    {
+        "id":6,
+        "name":"Sony PS5(Short)",
+        "price": 57990,
+        "image":"images/ps5.png"
+
+    },
+    {
+        "id":7,
+        "name":"Adidas Shoes",
+        "price": 2980,
+        "image":"images/shoes.png"
+
+    },
+    {
+        "id":8,
+        "name":"Sony LED TV",
+        "price": 32990,
+        "image":"images/tv.png"
+
+    },
+    {
+        "id":9,
+        "name":"Full-Sleeves Top",
+        "price": 1499,
+        "image":"images/levi shirt.png"
+
+    },
+    {
+        "id":10,
+        "name":"Rayban Sunglasses",
+        "price": 1190,
+        "image":"images/goggle.png"
+
+    },
+    {
+        "id":11,
+        "name":"Mens Jacket",
+        "price": 1999,
+        "image":"images/clothes3.png"
+
+    },
+    {
+        "id":12,
+        "name":"Maybelline Kit",
+        "price": 1560,
+        "image":"images/maybellen kit.png"
+
+    }
+]
