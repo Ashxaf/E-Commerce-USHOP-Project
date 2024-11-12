@@ -64,5 +64,5 @@ This is a simple **e-commerce website** built using **HTML**, **CSS**, and **Jav
 
 ---
 
-![Website Screenshot](images/BG.png)
+
 
