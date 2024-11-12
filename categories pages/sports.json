@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "name":"BasketBall",
+        "price": 1200,
+        "image":"/images/sp1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Rugby Ball",
+        "price": 700,
+        "image":"/images/sp2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Tennis Bat",
+        "price": 300,
+        "image":"/images/sp3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"MRF Cricket Kit",
+        "price": 20000,
+        "image":"/images/mrf kit.png"
+
+    },
+    {
+        "id":5,
+        "name":"Racket",
+        "price": 200,
+        "image":"/images/sp5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"BasketBall Hoop",
+        "price": 1200,
+        "image":"/images/sp6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Football Goal-Post",
+        "price": 5000,
+        "image":"/images/sp7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Football",
+        "price": 750,
+        "image":"/images/sp8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Kids Goal-Post",
+        "price": 2000,
+        "image":"/images/sp9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Leather Cricket Ball",
+        "price": 600,
+        "image":"/images/sp10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Bat Ball Stumps",
+        "price": 1000,
+        "image":"/images/sp11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Cricket Kit",
+        "price": 7500,
+        "image":"/images/sp12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Fiber Cricket Kit",
+        "price": 900,
+        "image":"/images/sp13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Single Tennis Ball",
+        "price": 40,
+        "image":"/images/sp14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Nike Football",
+        "price": 2500,
+        "image":"/images/football.png"
+
+    },
+    {
+        "id":16,
+        "name":"Baseball Bat",
+        "price": 800,
+        "image":"/images/sp16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Kashmir Willow Bat",
+        "price": 1800,
+        "image":"/images/sp17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Table Tennis Bat",
+        "price": 600,
+        "image":"/images/sp18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Cricket Practice Net",
+        "price": 550,
+        "image":"/images/sp19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Hockey Bat",
+        "price": 400,
+        "image":"/images/sp20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Baseball Ball",
+        "price": 350,
+        "image":"/images/sp21-removebg-preview.png"
+
+    }
+    
+
+]

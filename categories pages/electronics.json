@@ -1,0 +1,150 @@
+[
+    {
+        "id":1,
+        "name":"Electric Cooking Stove",
+        "price": 2500,
+        "image":"/images/et1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Single Door Fridge",
+        "price": 18000,
+        "image":"/images/et2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Motor",
+        "price": 2000,
+        "image":"/images/et3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Washing Machine",
+        "price": 28700,
+        "image":"/images/et4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Juice Maker",
+        "price": 2200,
+        "image":"/images/et5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Mixing machine",
+        "price": 1200,
+        "image":"/images/et6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Electric Fryer",
+        "price": 5300,
+        "image":"/images/et7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Double Door Fridge",
+        "price": 151366,
+        "image":"/images/et8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Double door fridge",
+        "price": 35800,
+        "image":"/images/et9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Automated Whirpool Washing Machine",
+        "price": 18000,
+        "image":"/images/et10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Samsung Washing machine",
+        "price": 35000,
+        "image":"/images/et11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Washing machine",
+        "price": 19200,
+        "image":"/images/et12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"RO Water Purifier",
+        "price": 9000,
+        "image":"/images/et13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Water Purifier",
+        "price": 5000,
+        "image":"/images/et14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"RO",
+        "price": 8000,
+        "image":"/images/et15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Iron",
+        "price": 900,
+        "image":"/images/et16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Auto Iron",
+        "price": 1200,
+        "image":"/images/et17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Iron",
+        "price": 800,
+        "image":"/images/et18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"LED Smart TV",
+        "price": 25000,
+        "image":"/images/et19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Ceiling Fan",
+        "price": 2000,
+        "image":"/images/et22-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Oven",
+        "price": 3000,
+        "image":"/images/et21-removebg-preview.png"
+
+    }
+
+]

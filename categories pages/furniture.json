@@ -1,0 +1,172 @@
+[
+    {
+        "id":1,
+        "name":"Chair",
+        "price": 1500,
+        "image":"/images/fn1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Sofa Chair",
+        "price": 2900,
+        "image":"/images/fn2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Sofa Chair (Large Size)",
+        "price": 3300,
+        "image":"/images/fn3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Single Bed",
+        "price": 10000,
+        "image":"/images/fn4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Wooden Chair",
+        "price": 2200,
+        "image":"/images/fn5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Double Bed",
+        "price": 15200,
+        "image":"/images/fn6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Single Cupboard",
+        "price": 7000,
+        "image":"/images/fn7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Wooden Chair",
+        "price": 2250,
+        "image":"/images/fn8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Single Cupboard",
+        "price": 8220,
+        "image":"/images/fn9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Single Cupboard",
+        "price": 7200,
+        "image":"/images/fn10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Double Cupboard",
+        "price": 15200,
+        "image":"/images/fn11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"White Double Cupboard",
+        "price": 17200,
+        "image":"/images/fn12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Single Sofa",
+        "price": 9000,
+        "image":"/images/fn13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"L-Sofa + Coffee Table",
+        "price": 18200,
+        "image":"/images/fn14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Single Sofa",
+        "price": 10200,
+        "image":"/images/fn15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Sofa Chair Pair",
+        "price": 12000,
+        "image":"/images/fn16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Dining Table + 4 chairs",
+        "price": 22000,
+        "image":"/images/fn17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Table",
+        "price": 12900,
+        "image":"/images/fn18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Working Desk",
+        "price": 9200,
+        "image":"/images/fn19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Working Desk(Small Size)",
+        "price": 8700,
+        "image":"/images/fn20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Table-Chair",
+        "price": 12900,
+        "image":"/images/fn21-removebg-preview.png"
+
+    },
+    {
+        "id":22,
+        "name":"Dining Table + 8 chairs",
+        "price": 29000,
+        "image":"/images/fn22-removebg-preview.png"
+
+    },
+    {
+        "id":23,
+        "name":"Office Chair",
+        "price": 6500,
+        "image":"/images/fn23-removebg-preview.png"
+
+    },
+    {
+        "id":24,
+        "name":"Chair",
+        "price": 2500,
+        "image":"/images/fn24-removebg-preview.png"
+
+    }
+    
+
+]

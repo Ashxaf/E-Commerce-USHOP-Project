@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "name":"Lipstick",
+        "price": 500,
+        "image":"/images/be1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Lip Liner",
+        "price": 200,
+        "image":"/images/be2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Face-Mask",
+        "price": 300,
+        "image":"/images/be3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Age-Reneval Cream",
+        "price": 600,
+        "image":"/images/be4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Maybellen Kit",
+        "price": 2200,
+        "image":"/images/maybellen kit.png"
+
+    },
+    {
+        "id":6,
+        "name":"Makeup Kit",
+        "price": 1200,
+        "image":"/images/be6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Makeup Brush",
+        "price": 200,
+        "image":"/images/be7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Conceler",
+        "price": 250,
+        "image":"/images/be8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Lakme c-serum",
+        "price": 200,
+        "image":"/images/be9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Eye Pallet",
+        "price": 200,
+        "image":"/images/be10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Beauty cc Cream",
+        "price": 200,
+        "image":"/images/be11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Facial Cleaning Cerum+Brush",
+        "price": 200,
+        "image":"/images/be12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Vitamin c-serum",
+        "price": 200,
+        "image":"/images/be13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Loose powder",
+        "price": 200,
+        "image":"/images/be14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Makeup Brushes",
+        "price": 200,
+        "image":"/images/be15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Makeup Kit",
+        "price": 200,
+        "image":"/images/be16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Full-Sleeves t-shirt",
+        "price": 200,
+        "image":"/images/be17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Eyeliner",
+        "price": 200,
+        "image":"/images/be18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Makeup Kit",
+        "price": 200,
+        "image":"/images/be19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Makeup Kit",
+        "price": 200,
+        "image":"/images/be20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Facial Hair Remover",
+        "price": 200,
+        "image":"/images/be21-removebg-preview.png"
+
+    }
+    
+
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Earings",
+    "price": 300,
+    "image": "/images/ac1-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "Belt Hook",
+    "price": 90,
+    "image": "/images/ac2-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "Womens Belt",
+    "price": 300,
+    "image": "/images/ac3-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "Necklace",
+    "price": 400,
+    "image": "/images/ac4-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Hair Band",
+    "price": 120,
+    "image": "/images/ac5-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": "Hand Purse",
+    "price": 500,
+    "image": "/images/ac6-removebg-preview.png"
+  },
+  {
+    "id": 7,
+    "name": "Purse",
+    "price": 380,
+    "image": "/images/ac7-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Female Accesorries set",
+    "price": 1000,
+    "image": "/images/ac8-removebg-preview.png"
+  },
+  {
+    "id": 9,
+    "name": "Black Earing",
+    "price": 400,
+    "image": "/images/ac9-removebg-preview.png"
+  },
+  {
+    "id": 10,
+    "name": "Ring",
+    "price": 400,
+    "image": "/images/ac10-removebg-preview.png"
+  },
+  {
+    "id": 11,
+    "name": "4 ring(female)",
+    "price": 600,
+    "image": "/images/ac11-removebg-preview.png"
+  },
+  {
+    "id": 12,
+    "name": "Womens ring",
+    "price": 350,
+    "image": "/images/ac12-removebg-preview.png"
+  },
+  {
+    "id": 13,
+    "name": "Set",
+    "price": 700,
+    "image": "/images/ac13-removebg-preview.png"
+  },
+  {
+    "id": 14,
+    "name": "Necklace Moon",
+    "price": 590,
+    "image": "/images/ac14-removebg-preview.png"
+  },
+  {
+    "id": 15,
+    "name": "Set",
+    "price": 860,
+    "image": "/images/ac15-removebg-preview.png"
+  },
+  {
+    "id": 16,
+    "name": "Male Belt",
+    "price": 479,
+    "image": "/images/ac16-removebg-preview.png"
+  },
+  {
+    "id": 17,
+    "name": "Sunglasses",
+    "price": 200,
+    "image": "/images/ac17-removebg-preview.png"
+  },
+  {
+    "id": 18,
+    "name": "Female Watch",
+    "price": 570,
+    "image": "/images/ac18-removebg-preview.png"
+  },
+  {
+    "id": 19,
+    "name": "Bracelet",
+    "price": 480,
+    "image": "/images/ac19-removebg-preview.png"
+  },
+  {
+    "id": 20,
+    "name": "Stone Bracelet",
+    "price": 360,
+    "image": "/images/ac20-removebg-preview.png"
+  },
+  {
+    "id": 21,
+    "name": "Bangles",
+    "price": 200,
+    "image": "/images/ac21-removebg-preview.png"
+  }
+]

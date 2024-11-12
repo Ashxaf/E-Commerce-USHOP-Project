@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "name":"Multi Gym",
+        "price": 7500,
+        "image":"/images/ft1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Butterfly Chest Press",
+        "price": 6200,
+        "image":"/images/ft2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Abductor & Stepper",
+        "price": 5300,
+        "image":"/images/ft3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Lat Machine",
+        "price": 8000,
+        "image":"/images/ft4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Energy Fitness",
+        "price": 522200,
+        "image":"/images/ft5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Outdoor Air Walk",
+        "price": 12000,
+        "image":"/images/ft6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Xterra Adjustable Dumble",
+        "price": 11200,
+        "image":"/images/ft7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Steel 8kg Dumble",
+        "price": 1250,
+        "image":"/images/ft8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Power Cage AP6111",
+        "price": 25000,
+        "image":"/images/ft9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Chest Press Table",
+        "price": 9000,
+        "image":"/images/ft10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Dubmle and Bar",
+        "price": 2000,
+        "image":"/images/ft11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Fitness Kit",
+        "price": 3300,
+        "image":"/images/ft12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"3kg Dumble",
+        "price": 900,
+        "image":"/images/ft13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Dumbles ",
+        "price": 1400,
+        "image":"/images/ft14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Bars & Dumble",
+        "price": 3500,
+        "image":"/images/ft15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Fitness Kit",
+        "price": 2600,
+        "image":"/images/ft16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Dumble Set",
+        "price": 22000,
+        "image":"/images/ft17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Xterra Adjustable Dumble",
+        "price": 12200,
+        "image":"/images/ft18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Steel Bar",
+        "price": 450,
+        "image":"/images/ft19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Tricep Rope",
+        "price": 350,
+        "image":"/images/ft20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Heavy Duty Strength Rope",
+        "price": 2400,
+        "image":"/images/ft21-removebg-preview.png"
+
+    }
+    
+
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "id":1,
+        "name":"Sherlock Set",
+        "price": 1300,
+        "image":"/images/book1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"The Origin of Species",
+        "price": 700,
+        "image":"/images/book2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"To Kill A Mocking Bird",
+        "price": 600,
+        "image":"/images/book3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"IT ENDS WITH US",
+        "price": 750,
+        "image":"/images/book4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"One Day Life Will Change",
+        "price": 500,
+        "image":"/images/book5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Still Beating",
+        "price": 1200,
+        "image":"/images/book6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Harry Potter Series",
+        "price": 5200,
+        "image":"/images/book7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"IKIGAI",
+        "price": 650,
+        "image":"/images/book8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Harry Potter and The Cursed Child",
+        "price": 700,
+        "image":"/images/book9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"The Good Sister",
+        "price": 500,
+        "image":"/images/book10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Really good Actually",
+        "price": 400,
+        "image":"/images/book11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Meet Halfway",
+        "price": 500,
+        "image":"/images/book12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"The Subtle Art of Not Giving a F*ck",
+        "price": 900,
+        "image":"/images/book13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Love and Hope",
+        "price": 450,
+        "image":"/images/book14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Silent patient",
+        "price": 2200,
+        "image":"/images/book15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"The Witcher Series Set",
+        "price": 3600,
+        "image":"/images/book16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Rohl Dahl Special",
+        "price": 1300,
+        "image":"/images/book17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"The Diary of Wimpy Kid Set",
+        "price": 7000,
+        "image":"/images/book18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Twilight Saga Series Set",
+        "price": 5200,
+        "image":"/images/book19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Around The World In 80 Days",
+        "price": 500,
+        "image":"/images/book20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Haunting Adeline Set",
+        "price": 2200,
+        "image":"/images/book21-removebg-preview.png"
+
+    },
+    {
+        "id":22,
+        "name":"A Thousand Splendid Suns",
+        "price": 920,
+        "image":"/images/book22-removebg-preview.png"
+
+    },
+    {
+        "id":23,
+        "name":"Harry Potter Series Set",
+        "price": 6200,
+        "image":"/images/books-removebg-preview.png"
+
+    },
+    {
+        "id":24,
+        "name":"Verity",
+        "price": 800,
+        "image":"/images/verity-removebg-preview.png"
+
+    }
+    
+
+]

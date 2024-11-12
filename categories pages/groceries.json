@@ -1,0 +1,172 @@
+[
+    {
+        "id":1,
+        "name":"Peanut Butter",
+        "price": 500,
+        "image":"/images/g1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Cardomom",
+        "price": 270,
+        "image":"/images/g2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Foxtail Millet",
+        "price": 300,
+        "image":"/images/g3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Dry Figgs + Pistachios",
+        "price": 600,
+        "image":"/images/g4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"4 pcs Apple",
+        "price": 200,
+        "image":"/images/g5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Vegetable Curry",
+        "price": 150,
+        "image":"/images/g6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Veg Biryani",
+        "price": 400,
+        "image":"/images/g7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Shahi Paneer",
+        "price": 550,
+        "image":"/images/g8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Aashirvaad Atta 10kg",
+        "price": 572,
+        "image":"/images/g9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"Tata Salt",
+        "price": 44,
+        "image":"/images/g10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Basmati Rice",
+        "price": 700,
+        "image":"/images/g11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Tata Poha",
+        "price": 300,
+        "image":"/images/g12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Soya Chunks",
+        "price": 200,
+        "image":"/images/g13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Surf-excel",
+        "price": 100,
+        "image":"/images/g14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Fortune Oil (Sunflower)",
+        "price": 155,
+        "image":"/images/g15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Green Tea",
+        "price": 350,
+        "image":"/images/g16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Zeera",
+        "price": 250,
+        "image":"/images/g17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Bourn-Vita",
+        "price": 370,
+        "image":"/images/g18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Colgate",
+        "price": 70,
+        "image":"/images/g19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Chana Daal",
+        "price": 120,
+        "image":"/images/g20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Honey Shahad",
+        "price": 500,
+        "image":"/images/g21-removebg-preview.png"
+
+    },
+    {
+        "id":22,
+        "name":"Peanut",
+        "price": 140,
+        "image":"/images/g22-removebg-preview.png"
+
+    },
+    {
+        "id":23,
+        "name":"Dates Khajoor",
+        "price": 400,
+        "image":"/images/g23-removebg-preview.png"
+
+    },
+    {
+        "id":24,
+        "name":"Dabar Chawan Prash",
+        "price": 200,
+        "image":"/images/g24-removebg-preview.png"
+
+    }
+    
+
+]

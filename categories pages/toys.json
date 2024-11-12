@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "name":"Teddy Bear",
+        "price": 500,
+        "image":"/images/t1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"Gun Robot",
+        "price": 200,
+        "image":"/images/t2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Kid Guitar",
+        "price": 800,
+        "image":"/images/t3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Aeroplane",
+        "price": 600,
+        "image":"/images/t4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Bike",
+        "price": 400,
+        "image":"/images/t5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"2x2 Cube",
+        "price": 200,
+        "image":"/images/t6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Cowboy",
+        "price": 400,
+        "image":"/images/t7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Car",
+        "price": 250,
+        "image":"/images/toy-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"Army Tank",
+        "price": 600,
+        "image":"/images/t9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"G.One + Krishh",
+        "price": 900,
+        "image":"/images/t10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Balance Toy",
+        "price": 200,
+        "image":"/images/t11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"3x3 Cube",
+        "price": 500,
+        "image":"/images/t12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Tressure X",
+        "price": 700,
+        "image":"/images/t13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"Spider-Man Robot",
+        "price": 1200,
+        "image":"/images/t14.jpg"
+
+    },
+    {
+        "id":15,
+        "name":"Robot",
+        "price": 400,
+        "image":"/images/t15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Captain America",
+        "price": 600,
+        "image":"/images/t16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"Iron-Man Robot",
+        "price": 1300,
+        "image":"/images/t17.png"
+
+    },
+    {
+        "id":18,
+        "name":"Car",
+        "price": 200,
+        "image":"/images/t18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"OFF Road Car",
+        "price": 600,
+        "image":"/images/t19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Truck",
+        "price": 700,
+        "image":"/images/t20-removebg-preview.png"
+
+    },
+    {
+        "id":21,
+        "name":"Hot-Wheels Set",
+        "price": 1500,
+        "image":"/images/t21-removebg-preview.png"
+
+    }
+    
+
+]

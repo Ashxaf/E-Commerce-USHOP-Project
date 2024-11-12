@@ -1,0 +1,227 @@
+[
+    {
+        "id":1,
+        "name":"Full-Sleeves t-shirt",
+        "price": 200,
+        "image":"/images/clothes1.png"
+
+    },
+    {
+        "id":2,
+        "name":"Frock",
+        "price": 590,
+        "image":"/images/clothes2.png"
+
+    },
+    {
+        "id":3,
+        "name":"Mens Jacket",
+        "price": 1900,
+        "image":"/images/clothes3.png"
+
+    },
+    {
+        "id":4,
+        "name":"Grey Pathani Salwar",
+        "price": 979,
+        "image":"/images/clothes4.png"
+
+    },
+    {
+        "id":5,
+        "name":"Mens Casual Wear",
+        "price": 600,
+        "image":"/images/clothes5.png"
+
+    },
+    {
+        "id":6,
+        "name":"Three piece Suit",
+        "price": 5000,
+        "image":"/images/clothes6.png"
+
+    },
+    {
+        "id":7,
+        "name":"Half-sleeves t-shirt",
+        "price": 380,
+        "image":"/images/clothes7.png"
+
+    },
+    {
+        "id":8,
+        "name":"Party-wear Cut-pieace",
+        "price": 1000,
+        "image":"/images/clothes8.png"
+
+    },
+    {
+        "id":9,
+        "name":"Sleveless Frock",
+        "price": 400,
+        "image":"/images/clothes9.png"
+
+    },
+    {
+        "id":10,
+        "name":"Shirt Green",
+        "price": 400,
+        "image":"/images/clothes10.png"
+
+    },
+    {
+        "id":11,
+        "name":"Half-kurti(female)",
+        "price": 400,
+        "image":"/images/clothes11.png"
+
+    },
+    {
+        "id":12,
+        "name":"Womens Casual",
+        "price": 560,
+        "image":"/images/clothes12.png"
+
+    },
+    {
+        "id":13,
+        "name":"Yellow kurta",
+        "price": 700,
+        "image":"/images/clothes13.png"
+
+    },
+    {
+        "id":14,
+        "name":"White Pathani",
+        "price": 590,
+        "image":"/images/clothes14.png"
+
+    },
+    {
+        "id":15,
+        "name":"Hoodie",
+        "price": 560,
+        "image":"/images/clothes15.png"
+
+    },
+    {
+        "id":16,
+        "name":"Night-Wear hoodie",
+        "price": 479,
+        "image":"/images/clothes16.png"
+
+    },
+    {
+        "id":17,
+        "name":"Womens Blazzer",
+        "price": 2600,
+        "image":"/images/clothes17.png"
+
+    },
+    {
+        "id":18,
+        "name":"Jacket+T-shirt",
+        "price": 970,
+        "image":"/images/clothes18.png"
+
+    },
+    {
+        "id":19,
+        "name":"Black Kurta(ladies)",
+        "price": 980,
+        "image":"/images/clothes19.png"
+
+    },
+    {
+        "id":20,
+        "name":"Blazzer(Three pieace)",
+        "price": 3960,
+        "image":"/images/clothes20.png"
+
+    },
+    {
+        "id":21,
+        "name":"Womens Blazzer(blue)",
+        "price": 2400,
+        "image":"/images/clothes21.png"
+
+    },
+    {
+        "id":22,
+        "name":"Pakistani Kurta",
+        "price": 1190,
+        "image":"/images/clothes22.png"
+
+    },
+    {
+        "id":23,
+        "name":"Mens Shirt",
+        "price": 400,
+        "image":"/images/clothes23.png"
+
+    },
+    {
+        "id":24,
+        "name":"Black Sherwani",
+        "price": 1560,
+        "image":"/images/clothes24.png"
+
+    },
+    {
+        "id":25,
+        "name":"Pakistani Kurti ",
+        "price": 700,
+        "image":"/images/clothes25.png"
+
+    },
+    {
+        "id":26,
+        "name":"Saree ",
+        "price":590,
+        "image":"/images/clothes26.png"
+
+    },
+    {
+        "id":27,
+        "name":"Womens formal",
+        "price": 2560,
+        "image":"/images/clothes27.png"
+
+    },
+    {
+        "id":28,
+        "name":"Levis t-shirt",
+        "price": 779,
+        "image":"/images/clothes28.png"
+
+    },
+    {
+        "id":29,
+        "name":"Blue Party Gown",
+        "price": 700,
+        "image":"/images/clothes29.png"
+
+    },
+    {
+        "id":30,
+        "name":"Green Couple Kurta",
+        "price": 2500,
+        "image":"/images/clothes30.png"
+
+    },
+    {
+        "id":31,
+        "name":"Casual Shirt",
+        "price": 280,
+        "image":"/images/clothes31.png"
+
+    },
+    {
+        "id":32,
+        "name":"Pakistani Kurti Salwar",
+        "price": 320,
+        "image":"/images/clothes32.png"
+
+    }
+
+]

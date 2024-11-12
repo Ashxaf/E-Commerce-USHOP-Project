@@ -1,0 +1,145 @@
+[
+    {
+        "id":1,
+        "name":"360 degree spin Mop",
+        "price": 110,
+        "image":"/images/h1-removebg-preview.png"
+
+    },
+    {
+        "id":2,
+        "name":"P11 Mopping Vaccum",
+        "price": 25000,
+        "image":"/images/h2-removebg-preview.png"
+
+    },
+    {
+        "id":3,
+        "name":"Food Wrapping Paper",
+        "price": 300,
+        "image":"/images/h3-removebg-preview.png"
+
+    },
+    {
+        "id":4,
+        "name":"Goodnight Liquid",
+        "price": 320,
+        "image":"/images/h4-removebg-preview.png"
+
+    },
+    {
+        "id":5,
+        "name":"Bathroom Mat",
+        "price": 490,
+        "image":"/images/h5-removebg-preview.png"
+
+    },
+    {
+        "id":6,
+        "name":"Cleaning Cloth 13 pcs",
+        "price": 600,
+        "image":"/images/h6-removebg-preview.png"
+
+    },
+    {
+        "id":7,
+        "name":"Neem Cleaning Liquid",
+        "price": 200,
+        "image":"/images/h7-removebg-preview.png"
+
+    },
+    {
+        "id":8,
+        "name":"Pest Control Spray",
+        "price": 250,
+        "image":"/images/h8-removebg-preview.png"
+
+    },
+    {
+        "id":9,
+        "name":"2 Brooms",
+        "price": 230,
+        "image":"/images/h9-removebg-preview.png"
+
+    },
+    {
+        "id":10,
+        "name":"harpic bathroom cleaner",
+        "price": 200,
+        "image":"/images/h10-removebg-preview.png"
+
+    },
+    {
+        "id":11,
+        "name":"Scrub 5 pcs",
+        "price": 120,
+        "image":"/images/h11-removebg-preview.png"
+
+    },
+    {
+        "id":12,
+        "name":"Bathroom Rack",
+        "price": 600,
+        "image":"/images/h12-removebg-preview.png"
+
+    },
+    {
+        "id":13,
+        "name":"Kitchen Rack",
+        "price": 1300,
+        "image":"/images/h13-removebg-preview.png"
+
+    },
+    {
+        "id":14,
+        "name":"House-hold Tools",
+        "price": 2400,
+        "image":"/images/h14-removebg-preview.png"
+
+    },
+    {
+        "id":15,
+        "name":"Mixer",
+        "price": 1200,
+        "image":"/images/h15-removebg-preview.png"
+
+    },
+    {
+        "id":16,
+        "name":"Bathroom Shelf",
+        "price": 650,
+        "image":"/images/h16-removebg-preview.png"
+
+    },
+    {
+        "id":17,
+        "name":"3 Scissors",
+        "price": 260,
+        "image":"/images/h17-removebg-preview.png"
+
+    },
+    {
+        "id":18,
+        "name":"Bleaching Powder",
+        "price": 200,
+        "image":"/images/h18-removebg-preview.png"
+
+    },
+    {
+        "id":19,
+        "name":"Shower",
+        "price": 1400,
+        "image":"/images/h19-removebg-preview.png"
+
+    },
+    {
+        "id":20,
+        "name":"Shower and Tap Set",
+        "price": 2070,
+        "image":"/images/h20-removebg-preview.png"
+
+    }
+   
+    
+
+]
